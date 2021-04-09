@@ -264,8 +264,10 @@ li:hover {
 	width: 250px;
 	height: 250px;
 	border-radius: 50%;
-	overflow-wrap: hidden;
+	overflow: hidden;
+	border: 1px solid #dbd9d9;
 }
+
 
 h3{
 	font-size: 25px;
