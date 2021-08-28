@@ -194,6 +194,10 @@ li{
 	-webkit-animation-name: runText;
 	        animation-name: runText;
 }
+.attachments{
+	margin-left: 20px;
+	font-style: italic;
+}
 
 
 
