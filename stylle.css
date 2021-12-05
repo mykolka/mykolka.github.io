@@ -11,7 +11,7 @@
 	padding: 0 30px;
 	display: flex;
 	justify-content: space-between;
-
+	margin: 0 auto;
 }
 
 .leftPart{
@@ -194,10 +194,7 @@ li{
 	-webkit-animation-name: runText;
 	        animation-name: runText;
 }
-.attachments{
-	margin-left: 20px;
-	font-style: italic;
-}
+
 
 
 
@@ -342,6 +339,7 @@ p{
   	.containerSmallScreen{
   		display: block;
   		min-width: 478px;
+  		margin: 0 auto;
   	}
   	.name{
   		display: flex;
